@@ -1,0 +1,6 @@
+category,brand,Product,Productprice,Manfacturer,SKU,unit_present,Description,ShortDescription,image
+Mobile,Motorolo,Moto G2,12999,Motorolo,4,20,Motorolo,Motorolo,download.jpg
+Mobile,iphone,iphone,50000,apple,5,50,apple product,apple product,handphone3.png
+Laptop,hp,hp,40000,hp,6,20,hp product,hp product,hp.jpg
+washing Machine,Samsung,washing Machine,40000,Samsung,8,20,Samsung,Samsung,wm.jpg
+TV,LG,TV,40001,LG,12,21,LG,Samsung,tv.jpg

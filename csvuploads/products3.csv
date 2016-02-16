@@ -1,0 +1,4 @@
+ID,uid,category,brand,Product,Productprice,Manfacturer,SKU,unit_present,Description,ShortDescription,image,DATETIME
+83,1,Mobile,Motorolo,Moto G2,12999,Motorolo,4,20,Motorolo,Motorolo,download.jpg,28-02-2015  2:49:61 PM
+84,1,Mobile,iphone,iphone,50000,apple,5,50,apple product,apple product,handphone3.png,28-02-15 14:45
+85,1,Laptop,hp,hp,40000,hp,6,20,hp product,hp product,hp.jpg,28-02-15 14:15
